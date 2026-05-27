@@ -8,4 +8,4 @@ Audio processed by the app stays on the user’s device and is not uploaded anyw
 
 If you test the app through TestFlight, Apple may collect crash reports, diagnostics, and feedback according to Apple’s own TestFlight and App Store policies.
 
-For privacy questions, contact: your@email.com
+For privacy questions, contact: temnojar@gmail.com
